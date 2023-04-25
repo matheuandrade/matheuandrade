@@ -1,7 +1,7 @@
 <h1 align="left">G'day mate, I'm Matheus Andrade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuandrade&color=orange" alt="Profile views" /> </p>
 
-- Sênior Sofwtare Engineer & Amateur Photographer 
+- Senior Software Engineer & Amateur Photographer 
 
 <br/>
 
@@ -9,15 +9,15 @@
 
 <br/>
 
-- 🇦🇺 Lived in Sydney, Australi ffrom october of 2022 until April of 2023
+- 🇦🇺 Lived in Sydney, Australia from october of 2022 until April of 2023
 
 <br/>
 
-- 💬 Let's talk about **C#, .Net Core, Typescript, Node.JS, React, Angular**
+- 💬 Let's talk about **C#, .Net Core, Typescript, Node.JS, React and Angular**
 
 <br/>
 
-- ⛳️ Check my personal website at [matheuandrade.dev](https://matheuandrade.dev)
+- ⛳️ Check my personal website at <a target="_blank" src="https://matheuandrade.dev">matheuandrade.dev</a>
 
 <!--
 
@@ -47,7 +47,7 @@
 </p>
 -->
 
-<br><br>
+<br>
 
 ## Be in touch
 
