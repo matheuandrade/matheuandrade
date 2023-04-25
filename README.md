@@ -17,7 +17,7 @@
 
 <br/>
 
-- ⛳️ Check my personal website at <a target="_blank" src="https://matheuandrade.dev">matheuandrade.dev</a>
+- ⛳️ Check my personal website at [matheuandrade.dev](https://matheuandrade.dev)
 
 <!--
 
