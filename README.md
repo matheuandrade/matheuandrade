@@ -1,7 +1,7 @@
 <h1 align="left">G'day mate, I'm Matheus Andrade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuandrade&color=orange" alt="Profile views" /> </p>
 
-- Senior Software Engineer & Amateur Photographer 
+- Senior .NET Developer & Amateur Photographer 
 
 <br/>
 
