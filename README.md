@@ -17,7 +17,7 @@
 
 <br/>
 
-- ⛳️ Check my personal website at [matheuandrade.dev](https://www.matheuandrade.dev/?target=_blank)
+- ⛳️ Check my personal website at [matheuandrade.dev](https://www.matheuandrade.dev)
 
 <!--
 
